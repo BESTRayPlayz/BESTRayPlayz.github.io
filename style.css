@@ -1,0 +1,68 @@
+#Home_icon {
+    width: 25px;
+    height: 25px;
+
+
+}
+
+nav {
+    background-color: gray;
+    padding: 4px;
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+
+.items:hover {
+    background-color: orange;
+}
+
+.Top {
+    font-family: Helvetica;
+    background-color: lightblue;
+    font-size: 16px;
+    padding: 5px;
+    border: ridge black;
+    place-items: center;
+    display: grid;
+}
+
+img {
+    width: 200px;
+    place-items: center;
+}
+
+.A_Student {
+    border: 2px solid black;
+}
+
+    .MHS {
+        display: flex;
+        
+    }
+
+.An_Athlete {
+    border: 2px solid black;
+}
+
+    .Soccer {
+        display: flex;
+    }
+
+.A_Leader {
+    border: 2px solid black;
+}
+
+.An_Awardee {
+    border: 2px solid black;
+}
+
+.An_Entrepreneur {
+    border: 2px solid black;
+}
+
+.Connect {
+    border: 2px solid black;
+    background-color: greenyellow;
+}
